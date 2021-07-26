@@ -50,6 +50,3 @@ I’m a developer who is interested in more than just code.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📫 How to reach me
-![](./linkedIn-badges.svg)
-
