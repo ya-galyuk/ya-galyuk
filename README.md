@@ -1,17 +1,8 @@
 # Hi there 👋
 
 ## About me
-I’m a developer who is interested in more than just code.
 
-🔻 I have experience:
-- development of start-up projects (12 participants), LMS
-- in planning, discussing and implementing new functionality
-- coordinate a team of three
-
-
-🔻 Interested in:
-- full-cycle of product development
-- projects that improve or simplify life
+A developer who is interested in more than just code. Gained exciting experience working on a startup project where I developed a learning management system with a team of twelve members. Coordinated the work of a three-person team. Interest in a full-service product that improves or simplifies life.
 
 ## Technologies
 
